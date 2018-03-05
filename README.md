@@ -1,9 +1,9 @@
 # [Hierarchical Attention Networks for Document Classification](http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf) TensorFlow实现
 
-## 依赖
+## 版本
 Python3
 
-Tensorflow 1.4+
+TensorFlow 1.4+
 
 ## 数据
 ### 来源 
